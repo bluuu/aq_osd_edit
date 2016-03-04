@@ -1,0 +1,16 @@
+D:\Dropbox\osd\Tools\OSD\bin\Debug\OSD_Config.exe.config
+D:\Dropbox\osd\Tools\OSD\bin\Debug\vlcsnap-2012-01-28-07h46m04s95.png
+D:\Dropbox\osd\Tools\OSD\bin\Debug\OSD_Config.exe.manifest
+D:\Dropbox\osd\Tools\OSD\bin\Debug\OSD_Config.application
+D:\Dropbox\osd\Tools\OSD\bin\Debug\OSD_Config.exe
+D:\Dropbox\osd\Tools\OSD\bin\Debug\OSD_Config.pdb
+D:\Dropbox\osd\Tools\OSD\obj\x86\Debug\OSD.csprojResolveAssemblyReference.cache
+D:\Dropbox\osd\Tools\OSD\obj\x86\Debug\OSD.AboutBox1.resources
+D:\Dropbox\osd\Tools\OSD\obj\x86\Debug\OSD.OSD.resources
+D:\Dropbox\osd\Tools\OSD\obj\x86\Debug\OSD.Properties.Resources.resources
+D:\Dropbox\osd\Tools\OSD\obj\x86\Debug\OSD.csproj.GenerateResource.Cache
+D:\Dropbox\osd\Tools\OSD\obj\x86\Debug\OSD_Config.TrustInfo.xml
+D:\Dropbox\osd\Tools\OSD\obj\x86\Debug\OSD_Config.exe.manifest
+D:\Dropbox\osd\Tools\OSD\obj\x86\Debug\OSD_Config.application
+D:\Dropbox\osd\Tools\OSD\obj\x86\Debug\OSD_Config.exe
+D:\Dropbox\osd\Tools\OSD\obj\x86\Debug\OSD_Config.pdb
